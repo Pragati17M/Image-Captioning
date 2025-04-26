@@ -1,0 +1,15 @@
+body {
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+.stButton button {
+    border-radius: 8px;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+.stRadio > div {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
